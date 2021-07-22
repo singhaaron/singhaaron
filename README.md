@@ -4,7 +4,7 @@
 - 🔭 my [personal projects](https://singhaaron.github.io/web_portfolio/)
 - 🌱 I’m preparing for this [tensorflow certification](https://singhaaron.github.io/web_portfolio/) rn
 
-<h4 align="left">also me :) </h4>
+
 <p align="left">
 <a href="https://www.youtube.com/channel/UCOia_ZLIXVQ5-a6m-E6H26w/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crack trader" height="30" width="40" /></a>
 </p>
