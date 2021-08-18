@@ -2,7 +2,6 @@
 
 - 🤔 idk really know what i'm doing here...
 - 🔭 my [personal projects](https://singhaaron.github.io/web_portfolio/)
-- 🌱 I’m preparing for this [tensorflow certification](https://singhaaron.github.io/web_portfolio/) rn
 
 
 <p align="left">
