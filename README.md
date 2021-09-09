@@ -1,6 +1,5 @@
 <h4 align="left">Hi 👋, I'm aaron</h4>
 
-- 🤔 idk really know what i'm doing here...
 - 🔭 my [personal projects](https://singhaaron.github.io/web_portfolio/)
 
 
